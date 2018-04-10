@@ -1,0 +1,1 @@
+<powershell>aws s3 sync s3://bucket-for-backups2/windows2/ C:\Users\Administrator\Desktop\ </powershell>
